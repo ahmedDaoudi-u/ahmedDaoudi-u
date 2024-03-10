@@ -54,7 +54,7 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <hr style="dashed: 1px solid #000000;">
       
-<div style="display: flex;">
+<div style="display: flex;" align="right">
   <div style="width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u" style="width: 50%;"/>
   </div>
