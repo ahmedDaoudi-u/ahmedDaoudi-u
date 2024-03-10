@@ -4,6 +4,8 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
 - As a Data Engineer, I specialize in building robust data pipelines and optimizing infrastructure to extract valuable insights. 
 - Currently, I'm working as a DataOps at TEOS, where I'm involved in the development of Odoo modules and ensuring the delivery of projects. I leverage CI/CD for deployment using GitLab, Kubernetes, and Portainer.
 
+<hr style="dashed: 1px solid #000000;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddaoudi-u&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddaoudi-u" /> </p>
 
 - 🌱 I’m currently learning **CI/CD** Pipeline Using Jenkins / Gitlab.
@@ -14,12 +16,13 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/640px-LinkedIn_Logo_2013_%282%29.svg.png" width="65">](https://www.linkedin.com/in/ahmed-daoudi-aa693a230/)
 
-
+<hr style="dashed: 1px solid #000000;">
 
 <h3 align="left">Tech Stack & Tools:</h3>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/640px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -49,9 +52,14 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p width="500" height="500" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddaoudi-u&" alt="ahmeddaoudi-u"/>
-</p>
+<hr style="dashed: 1px solid #000000;">
+      
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u" style="width: 50%;"/>
+  </div>
+  <div style="width: 50%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddaoudi-u&" alt="ahmeddaoudi-u" style="width: 50%;"/>
+  </div>
+</div>
 
