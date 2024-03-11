@@ -56,6 +56,6 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/640px-X_logo_2023.svg.png" width="26">](https://twitter.com/1ahmedDaouDi)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/640px-X_logo_2023.svg.png" width="28">](https://twitter.com/1ahmedDaouDi)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/640px-LinkedIn_Logo_2013_%282%29.svg.png" width="115">](https://www.linkedin.com/in/ahmed-daoudi-aa693a230/)
 
