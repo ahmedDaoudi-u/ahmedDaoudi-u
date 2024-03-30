@@ -6,7 +6,7 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
 
 <hr style="dashed: 1px solid #000000;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddaoudi-u&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddaoudi-u" /> </p>
+
 
 <h3 align="left">Tech Stack & Tools:</h3>
 
@@ -49,6 +49,7 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
     <img style="width: 42%;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddaoudi-u&" alt="ahmeddaoudi-u" />
     <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u"/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=ahmeddaoudi-u&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddaoudi-u" /> 
   
 <hr style="dashed: 1px solid #000000;">
 
