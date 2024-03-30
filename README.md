@@ -44,15 +44,13 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   
-<div style="display: flex;">
+
   <div style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u"/>
+    <img style="width: 42%;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddaoudi-u&" alt="ahmeddaoudi-u" />
+    <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u"/>
   </div>
+  
 <hr style="dashed: 1px solid #000000;">
-    
-<div style="width: 50%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddaoudi-u&" alt="ahmeddaoudi-u" style="width: 50%;"/>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 
