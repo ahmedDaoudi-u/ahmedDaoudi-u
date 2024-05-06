@@ -8,7 +8,7 @@ A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Le
 
 <b> What I am working on right now :</b> <h4>🤟🏼
 I'm now developing a comprehensive payroll system that seamlessly complies with the Moroccan law. </h4>
-
+<h4>🤟🏼 I'm also learning REACT </h4>
 
 <h3 align="left">Tech Stack & Tools:</h3>
 
