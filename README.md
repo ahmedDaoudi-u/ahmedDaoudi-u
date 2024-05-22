@@ -52,7 +52,7 @@ I'm now developing a comprehensive payroll system that seamlessly complies with 
     <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddaoudi-u&show_icons=true&locale=en&layout=compact" alt="ahmeddaoudi-u"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ahmeddaoudi-u&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddaoudi-u" /> 
-  
+
 <hr style="dashed: 1px solid #000000;">
 
 <h3 align="left">Connect with me:</h3>
