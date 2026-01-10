@@ -1,9 +1,6 @@
 <h2 align="center">Hi There👋, I'm Ahmed</h2>
 A Data Engineer passionate about Machine Learning, Computer Vision, AI & Deep Learning, Databases & Big Data, DevOps, and Web Development.
 
-- As a Data Engineer, I specialize in building robust data pipelines and optimizing infrastructure to extract valuable insights. 
-- Currently, I'm working as a DataOps at TEOS, where I'm involved in the development of Odoo modules and ensuring the delivery of projects. I leverage CI/CD for deployment using GitLab, Kubernetes, and Portainer.
-
 <hr style="dashed: 1px solid #000000;">
 
 <b> What I am working on right now :</b> <h4>🤟🏼
