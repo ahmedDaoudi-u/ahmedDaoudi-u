@@ -5,6 +5,11 @@ Full-Stack Java Developer & Odoo Specialist from Tangier, Morocco. Building miss
 ## Current Focus
 - At **SBS Software**: Developing scalable credit-management platforms for banks using Java 17, Spring Boot, React.js/TypeScript, AWS, Docker, Kubernetes.
 - At **TEOS Tangier Free Zone**: Odoo ERP migrations (Odoo 17→18, +30% performance) and HR/payroll customizations (Python, JS, XML, PostgreSQL).
+  
+### Actively Learning & Deepening
+- Getting deeper into **Java** (advanced Spring Boot patterns, microservices)  
+- Advancing in **AWS** (cloud architecture, services like EC2/RDS/S3/Lambda)  
+- Diving deeper into **Machine Learning & Data Science** (TensorFlow, Scikit-learn, big data tools)
 
 ## Previous Highlights
 - Data Science Intern (AO Digital): ML dashboard for social media analysis (+25% campaign accuracy).
