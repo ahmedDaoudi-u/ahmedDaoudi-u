@@ -10,20 +10,7 @@ Full-Stack Java Developer & Odoo Specialist from Tangier, Morocco. Building miss
 - Data Science Intern (AO Digital): ML dashboard for social media analysis (+25% campaign accuracy).
 - Java Developer Intern (Highers Computing): Inventory system optimizations.
 
-## Tech Stack
-- **Backend**: Java, Spring Boot, Odoo, Python, Node.js, Express.js
-- **Frontend**: React.js, TypeScript, Material-UI
-- **Data/ML**: TensorFlow, Scikit-learn, Hadoop/Spark
-- **Cloud/DevOps**: AWS, Docker, Kubernetes, Git
-- **Databases**: PostgreSQL, MySQL
-
-## Education
-State Engineer in Knowledge & Data Science (ICSD), ESI Rabat (2021–2024)  
-CPGE MPSI, Tangier (2019–2021)
-
-Actively preparing relocation to Germany (Berlin/Munich/Frankfurt/Hamburg) in Q1 2026 – open to visa sponsorship & remote onboarding!
-
 Fluent in English & French | Learning German (target B2 mid-2026)  
-Let's connect: [LinkedIn](https://www.linkedin.com/in/ahmed-daoudi-aa693a230/) | Email: ahmedda129@outlook.fr
+Let's connect: [LinkedIn](https://www.linkedin.com/in/ahmed-daoudi-aa693a230/) | Email: ahmed.daoudi.softwareengineer@outlook.com
 
 Feel free to explore my repos, star projects, or reach out for collaborations! 🚀
