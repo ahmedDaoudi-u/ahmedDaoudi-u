@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ahmed Daoudi
 
-Full-Stack Java Developer & Odoo Specialist from Tangier, Morocco. Building mission-critical FinTech and enterprise solutions with 2+ years of hands-on experience.
+Full-Stack Developer from Tangier, Morocco. Building mission-critical FinTech and enterprise solutions with 2+ years of hands-on experience.
 
 ## Current Focus
 - At **SBS Software**: Developing scalable credit-management platforms for banks using Java 17, Spring Boot, React.js/TypeScript, AWS, Docker, Kubernetes.
