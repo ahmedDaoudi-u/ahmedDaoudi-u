@@ -15,7 +15,7 @@ Full-Stack Developer from Tangier, Morocco. Building mission-critical FinTech an
 - Data Science Intern (AO Digital): ML dashboard for social media analysis (+25% campaign accuracy).
 - Java Developer Intern (Highers Computing): Inventory system optimizations.
 
-Fluent in English & French | Learning German (target B2 mid-2026)  
+Fluent in English & French | Learning German
 Let's connect: [LinkedIn](https://www.linkedin.com/in/ahmed-daoudi-aa693a230/) | Email: ahmed@ahmeddaoudi.com
 
 Feel free to explore my repos, star projects, or reach out for collaborations! 🚀
